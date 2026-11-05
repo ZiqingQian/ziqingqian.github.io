@@ -13,15 +13,15 @@ gscholar: "https://scholar.google.com/citations?user=knAVCNQAAAAJ&amp;hl=zh-CN"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student in <strong>Intelligent Science and Technology at Tongji University</strong>,
-    advised by <strong><a href="https://nancao.github.io/" target="_blank">Prof. Nan Cao</a></strong>. I received my bachelor's degree in <strong>Applied Physics from Guohao College, Tongji University(</strong><em>Sep. 2020 - Jun. 2024</em><strong>)</strong>. I am affiliated with the
-    <a href="https://idvxlab.com/" target="_blank">Intelligent Big Data Visualization (IDVX) Lab</a>
+    I am a Ph.D. student in <strong>Intelligent Science and Technology</strong> at Tongji University,
+    advised by <strong><a href="https://nancao.github.io/" target="_blank">Prof. Nan Cao</a></strong>. I received my bachelor's degree in <strong>Applied Physics</strong> from Guohao College, Tongji University(<em>Sep. 2020 - Jun. 2024</em>). I am affiliated with the
+    <a href="https://idvxlab.com/" target="_blank"><strong>Intelligent Design &amp; InnoVation Lab</strong> (iDV<sup>x</sup>)</a>
     and the Shanghai Research Institute for Intelligent Autonomous System. I am also currently a visiting
     student at <strong>Florida State University</strong>, where I collaborate with
     <strong><a href="https://wangyifang.top/" target="_blank">Prof. Yifang Wang</a></strong>.
   </p>
   <p>
-    My research focuses on <strong>AI for Social Science</strong>, exploring how artificial intelligence
+    My research focuses on <strong style="background-color: rgba(187, 191, 161, 0.3); padding: 0 0.25rem; border-radius: 0.25rem;">AI for Social Science</strong>, exploring how artificial intelligence
     and data-driven computational methods can advance our understanding of complex social phenomena.
     My research interests include information diffusion, social media user modeling, scientific knowledge
     evolution, and the science of science. I am particularly interested in developing AI-driven methods

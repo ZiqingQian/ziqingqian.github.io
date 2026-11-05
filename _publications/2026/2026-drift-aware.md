@@ -2,7 +2,7 @@
 title:          "Drift-Aware Multimodal User Representation Learning via Multi-Scale Temporal Modeling and Sparse Mixture-of-Experts"
 date:           2026-08-20 00:00:00 +0800
 selected:       true
-cover:          /assets/images/covers/2026-drift-aware.png
+cover:          /assets/images/covers/26_neurips_pipeline.png
 pub:            "NeurIPS"
 pub_date:       "2026"
 authors:

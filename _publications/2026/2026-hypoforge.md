@@ -4,7 +4,7 @@ date:           2026-09-01 00:00:00 +0800
 selected:       true
 pub:            "arXiv"
 pub_date:       "2026"
-cover:          /assets/images/covers/2026-hypoforge.png
+cover:          /assets/images/covers/26_arxiv.png
 authors:
 - Ziqing Qian
 - Jiaying Lei

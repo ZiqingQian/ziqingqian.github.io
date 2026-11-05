@@ -2,7 +2,7 @@
 title:          "Designed to Spread: Generative Approaches to Enhance Information Diffusion"
 date:           2026-01-10 00:00:00 +0800
 selected:       true
-cover:          /assets/images/covers/2026-designed-to-spread.png
+cover:          /assets/images/covers/26_AAAI.png
 pub:            "AAAI"
 pub_date:       "2026"
 authors:

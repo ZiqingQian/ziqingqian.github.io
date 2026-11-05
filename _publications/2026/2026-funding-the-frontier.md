@@ -2,7 +2,7 @@
 title:          "Funding the Frontier: Visualizing the Broad Impact of Science and Science Funding"
 date:           2026-01-15 00:00:00 +0800
 selected:       true
-cover:          /assets/images/covers/2026-funding-the-frontier.png
+cover:          /assets/images/covers/26_nature_human_behaviour.png
 pub:            "Nature Human Behaviour"
 pub_date:       "2026"
 authors:
