@@ -1,0 +1,8 @@
+{% case include.label %}
+{% when "Paper" %}<i class="fas fa-file-pdf"></i>
+{% when "Code" %}<i class="fab fa-github"></i>
+{% when "Media" %}<i class="fas fa-newspaper"></i>
+{% when "Project" %}<i class="fas fa-globe"></i>
+{% when "Dataset" %}<i class="fas fa-database"></i>
+{% else %}<i class="fas fa-link"></i>
+{% endcase %}

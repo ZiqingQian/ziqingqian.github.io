@@ -1,0 +1,12 @@
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog; empty for a user/organization GitHub Pages site
+
+# Build settings
+title: Ziqing Qian
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
+
+collections:
+  - publications
+  - news
